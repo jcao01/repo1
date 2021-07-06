@@ -1,6 +1,6 @@
 public class gitpractice {
-  public static void main(String[] args) {
+    public static void main(String[] args) {
   
-  int a;
-  int b;
+    int a;
+    int b;
 }
